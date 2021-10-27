@@ -1,0 +1,41 @@
+.fondo-page1{
+    background-color: rgb(0, 140, 255);
+    
+}
+.fondo-page2{
+    background-color: rgb(15,71,199)
+}
+.fondo-page3{
+   background-color: rgb(6, 127, 240);
+}
+.fondo-page4{
+    background-color:white !important ;
+    height: auto;
+}
+.color-primario{
+    background-color: #FFC139 !important;
+    color: white !important;
+}
+.espacio-superior{
+    margin-top: 2%;
+}
+.font-amarillo{
+    color: #FFC139  !important;
+}
+.font-blanco{
+    color: white  !important;
+}
+.color-link, .color-link:hover{
+    color: white;
+    text-decoration: none;
+}
+#idiomas {
+    width: 300px;
+}
+#Formación{
+    width: 400px;
+}
+#Skills {
+    width: 700px;
+}
+
